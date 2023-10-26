@@ -1,5 +1,6 @@
-# sidi-c64
-Unofficial port of Amstrad C64 core for Sidi
+# Commodore 64 for SiDi (DrWh0's Unofficial Core)
+
+Unofficial port of C64 core for Sidi
 
 Ported from:
 
