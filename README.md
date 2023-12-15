@@ -6,6 +6,6 @@ Ported from Mist FPGA:
 
 https://github.com/mist-devel/c64
 
-#ALL UPDATES MOVED TO THIS REPOSITORY:
+# ALL UPDATES MOVED TO THIS REPOSITORY:
 
 https://github.com/Dalekamistoso/drwh0-computer-sidi
